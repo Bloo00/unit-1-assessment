@@ -1,0 +1,29 @@
+h1 {
+    color :black;
+    font-size: 100px;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    color: #000;
+    border: 3px solid darkgrey;
+    border-radius: 6px;
+    padding: 20px 20px;
+}
+
+
+.display {
+    background-color: white;
+    border: 3px solid darkgrey;
+    border-radius: 6px;
+    padding: 20px 40px;
+    margin: auto 10px auto 10px;
+    text-align: center;
+}
+
